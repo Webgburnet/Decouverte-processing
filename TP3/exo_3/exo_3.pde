@@ -24,3 +24,6 @@ void setup()
 void draw()
 {
 }
+  void keyPressed() {
+    save("resultat.png");
+  }
